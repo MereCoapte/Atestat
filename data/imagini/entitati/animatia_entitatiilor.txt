@@ -1,3 +1,0 @@
-player/idle/ 20;20 loop
-player/run/ 12;12 loop
-enemy/idle/ 1 loop
